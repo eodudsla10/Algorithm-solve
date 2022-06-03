@@ -44,3 +44,8 @@
 |          주차           |         유형         |                                                                                              문제                                                                                              |                                                                                           코드                                                                                            |
 |:---------------------:|:------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 4주차<br/>(05.23~05.29) | 구현 <br/> 힙 <br/> 힙 | [제로](https://www.acmicpc.net/problem/10773) <br />[N번째 큰 수](https://www.acmicpc.net/problem/2075) <br />[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [JAVA](https://github.com/eodudsla10/Algorithm-solve/blob/master/src/BOJ/BOJ10773.java) <br /> [JAVA](https://github.com/eodudsla10/Algorithm-solve/blob/master/src/BOJ/BOJ2075.java) <br /> [JAVA](https://github.com/eodudsla10/Algorithm-solve/blob/master/src/PRO/PRO42626.java) |
+
+### 2022년 6월
+|           주차            | 유형  |  문제  | 코드  |
+|:-----------------------:|:---:|:----:|:---:|
+| 1주차<br/>(05.30 ~ 06.05) | 구현  | [양념 반 후라이드 반](https://www.acmicpc.net/problem/16917) |[JAVA](https://github.com/eodudsla10/Algorithm-solve/blob/master/src/BOJ/BOJ16917.java)|
